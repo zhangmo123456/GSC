@@ -18,4 +18,4 @@ Description of data file:
 
 (7) loss_acc_steps.csv (output): global stepwise long loss value calculated using the ARIO module
 
-test data initialize：region number is 4 and sector number is 3.
+Test data initialize：region number is 4 and sector number is 3.
