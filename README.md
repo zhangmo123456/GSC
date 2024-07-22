@@ -1,4 +1,6 @@
-This document includes a test dataset for the SEGC model, and the web version of the SEGC model (version 2) can be accessed at https://segc.shinyapps.io/segcver2/
+This document includes a test dataset for the Social-economic geographical cascading (SEGC) model, and the web version of the SEGC model (version 2) can be accessed at https://segc.shinyapps.io/segcver2/
+
+Users can also download SEGC desktop version (SEGC_v2.exe).
 
 Description of data file:
 
