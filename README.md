@@ -1,6 +1,6 @@
-# Geographical Social-economic Cascading (GSC) model
+# Geographic Social-economic Cascading (GSC) model
 
-This document includes a test dataset for the Geographical Social-economic Cascading (GSC) model, and the web version of the GSC model can be accessed at https://gscmodel.shinyapps.io/gscm/
+This document includes a test dataset for the Geographic Social-economic Cascading (GSC) model, and the web version of the GSC model can be accessed at https://gscmodel.shinyapps.io/gscm/
 
 Users can also download GSC desktop version (GSC_v0.1.exe).
 
