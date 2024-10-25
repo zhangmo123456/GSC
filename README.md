@@ -1,6 +1,6 @@
 This document includes a test dataset for the Geographical Social-economic Cascading (GSC) model, and the web version of the GSC model can be accessed at https://gscmodel.shinyapps.io/gscm/
 
-Users can also download SEGC desktop version (GSC_v0.1.exe).
+Users can also download GSC desktop version (GSC_v0.1.exe).
 
 Description of data file:
 
