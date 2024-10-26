@@ -2,7 +2,7 @@
 
 This document includes a test dataset for the Interdependency System-based Geographic Cascade (INGC) model, and the web version of the GSC model can be accessed at https://gcmodel.shinyapps.io/ingc/
 
-  Users can also download INGC desktop version (GSC_v0.1.exe).
+  Users can also download INGC desktop version (INGC_v0.1.exe).
 
 Description of data file:
 
